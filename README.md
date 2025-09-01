@@ -18,8 +18,8 @@
 
 ```yaml
 name: "Fahri"
-age: "16+"
-gender : "cwok"
+age: "?"
+gender : "?"
 status: "student"
 hobby: "Badminton is my hoby"
 motto: "Everything has been prepared, we only need to open the sheets provided one by one ✨"
